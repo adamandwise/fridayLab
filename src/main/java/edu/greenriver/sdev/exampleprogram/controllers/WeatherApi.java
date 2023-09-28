@@ -36,7 +36,9 @@ public class WeatherApi
                 new WeatherReading("Spokane","Sunny",70.0,"10/10/2021 8:00pm"),
                 new WeatherReading("Tacoma","Rain",70.0,"12/2/1991 6:30am"),
                 new WeatherReading("Kent","Cloudy",70.0,"6/5/1998 4:20pm"),
-                new WeatherReading("Wilkeson","Snowy",70.0,"7/10/2021 6:43Pm")
+                new WeatherReading("Wilkeson","Snowy",70.0,"7/10/2021 6:43Pm"),
+                new WeatherReading("Seattle","Rainy",42.0,"7/20/2021 6:10Pm")
+
         );
     }
 
